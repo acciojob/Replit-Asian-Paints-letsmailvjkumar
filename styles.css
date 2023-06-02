@@ -12,7 +12,9 @@
       font-size: 24px;
       background-color: transparent;
     }
-
+	#three{
+		background-color:rgb(255, 0, 0);
+	}
     #change_button, #reset_button {
       margin-top: 10px;
     }
